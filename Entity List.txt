@@ -1,0 +1,7 @@
+1	Los Angeles	Chicago	Boston	New York	Detroit	Cleveland	Atlanta	Houston	Washington, D.C.	Milwaukee
+2	Los Angeles Lakers	Chicago Bulls	Boston Celtics	New York Knicks	Detroit Pistons	Cleveland Cavaliers	Atlanta Hawks	Houston Rockets	Washington Wizards	Milwaukee Bucks
+3	Los Angeles Dodgers	Chicago Cubs	Boston Red Sox	New York Yankees	Detroit Tigers	Cleveland Indians	Atlanta Braves	Houston Astros	Washington Nationals	Milwaukee Brewers
+4	Toyota Camry	Ford Ikon	Tata Indica	Honda Accord	Hyundai Accent	Chevrolet Tavera	Porsche Cayman	Volkswagen Jetta	Buick Regal	Cadillac Escalade
+5	Toyota	Ford	Tata Motors	Honda	Hyundai	Chevrolet	Porsche	Volkswagen	Buick	Cadillac
+6	Cambridge	Oxford	St Andrews	Warwick	London	Edinburgh	Glasgow	Manchester	York	Aberdeen
+7	University of Cambridge	University of Oxford	University of St Andrews	University of Warwick	University of London	University of Edinburgh	University of Glasgow	University of Manchester	University of York	University of Aberdeen
