@@ -11,6 +11,7 @@ Specifically, the reconstructed target entity lists can be found in **Entity Lis
 
 The generated document follows the format of:
 >Article: Houston Mavericks
+
 >target entity name \t mention name \t sentence
 
 and each Article is regarded as a separate document.
