@@ -7,7 +7,7 @@ As is stated in [1], this paper aims to improve List-Only Entity Linking[2] by t
 ## Datasets
 We first modified the dataset since, for one thing, each document merely contains a single mention to be disambiguated, which does not fit in with most real-life occasions. For another, the target entity lists are not ambiguous enough, giving rise to the situation that most mentions merely have one candidate entity, and the disambiguation problem is converted to judging whether this sole candidate entity is true or not.
 
-Specifically, the reconstructed target entity lists can be found in **Entity List.txt**. The we also provide code in **data_gen.py** as for how to generate the documents. As for how to corrupt the dataset, you can follow the descriptions in the paper.
+Specifically, the reconstructed target entity lists can be found in **Entity List.txt**. We also provide code in **data_gen.py** as for how to generate the documents. When it comes to how to corrupt the dataset, you can follow the descriptions in the paper.
 
 The generated document follows the format of:
 >Article: Houston Mavericks
