@@ -9,6 +9,12 @@ We first modified the dataset since, for one thing, each document merely contain
 
 Specifically, the reconstructed target entity lists can be found in **Entity List.txt**. The we also provide code in **data_gen.py** as for how to generate the documents. As for how to corrupt the dataset, you can follow the descriptions in the paper.
 
+The generated document follows the format of:
+>Article: Houston Mavericks
+>target entity name \t mention name \t sentence
+
+and each Article is regarded as a separate document.
+
 ## Linking Method
 Then regarding the specific linking method, the candidate genration process can be easily re-implemented using *TABLE 1. String matching rules* in [1]. We are currently working on organizing the codes for entity information enrichment and random walks on the graph. You are also welcome to reimplement -- it is not that hard. Let me know if you have any problems.
 
